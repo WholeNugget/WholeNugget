@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @WholeNugget
-- 👀 I’m interested in Games Development, Shell Scripts and Powershell
-- 🌱 I’m currently learning Unity Engine 4
-- I'm practiced in scripting for macOS and Windows platforms 
+
+- 👀 Principal Consultant
+- 💻 MDM Specialist | Jamf Expert
+- 🐳 Docker Dabbler
+- 📝 bash/zsh | powershell 
 
 - 📫 How to reach me ...
 
