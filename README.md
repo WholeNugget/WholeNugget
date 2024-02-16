@@ -1,11 +1,20 @@
-- 👋 Hi, I’m @WholeNugget
 
+## Hi, my name is Josh. 
 - 👀 Principal Consultant
 - 💻 MDM Specialist | Jamf Expert
 - 🐳 Docker Dabbler
-- 📝 bash/zsh | powershell 
+---
+### Scripting Languages
+- bash/zsh
+- powershell
 
-- 📫 How to reach me ...
+### Keen to learn
+- Swift
+- Javascript
+- LoginWindow SecurityPlugins for macOS
+---
+### 📫 How to reach me ...
+__E:__ _josh@litlabs.au_
 
 <!---
 WholeNugget/WholeNugget is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
