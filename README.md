@@ -1,19 +1,19 @@
 
-## Hi, my name is Josh. 
-- 👀 Principal Consultant
+## Hi, my name is Josh. 👋
+- 💼 Principal Consultant
 - 💻 MDM Specialist | Jamf Expert
 - 🐳 Docker Dabbler
 ---
-### Scripting Languages
+### Scripting Languages 📄
 - bash/zsh
 - powershell
 
-### Keen to learn
+### Keen to learn 🎓
 - Swift
 - Javascript
 - LoginWindow SecurityPlugins for macOS
 ---
-### 📫 How to reach me ...
+### Get in touch... 📫
 __E:__ _josh@litlabs.au_
 
 <!---
